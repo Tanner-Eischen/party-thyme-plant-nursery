@@ -1,0 +1,39 @@
+
+body {
+    background-image: url('C:/Users/User/Documents/HackTheGap/party-thyme-plant-nursery/src/images/landingpage.png');
+    background-size: cover;
+   
+    align-items: center ;
+    min-height: 100vh;
+    width: 95vw;
+}
+
+        
+
+
+
+
+.page-center {
+    display: flex;
+    justify-content: center;   /* center horizontally */
+    align-items: center;       /* center vertically */
+    height: 100vh;             /* full viewport height */
+  }
+
+footer {
+        width: 90vw;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        align-items: center;     /* Center horizontally */
+        justify-content: center; /* Center vertically (optional) */
+        text-align: center;      /* Center the text */
+        
+        backdrop-filter: blur(7px) brightness(.7);
+        border: 1px solid #ddd;
+        padding: 16px;
+        margin: 10px;
+        border-radius: 5px;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 1);
+      }
+      
