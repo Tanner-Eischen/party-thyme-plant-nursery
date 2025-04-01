@@ -1,22 +1,16 @@
 {
   "files": {
     "main.css": "/party-thyme-plant-nursery/static/css/main.ee1802f6.css",
-    "main.js": "/party-thyme-plant-nursery/static/js/main.368973d4.js",
+    "main.js": "/party-thyme-plant-nursery/static/js/main.896c8278.js",
     "static/js/453.a418b3d5.chunk.js": "/party-thyme-plant-nursery/static/js/453.a418b3d5.chunk.js",
     "static/media/landingpage.png": "/party-thyme-plant-nursery/static/media/landingpage.f41540b79aa7577f905f.png",
-    "static/media/rosemary.png": "/party-thyme-plant-nursery/static/media/rosemary.70e93f5c4ea96452434e.png",
-    "static/media/philo.png": "/party-thyme-plant-nursery/static/media/philo.97a489d20e69ff7c9e78.png",
-    "static/media/mand.png": "/party-thyme-plant-nursery/static/media/mand.45cbd4566a88d6231a2f.png",
-    "static/media/cactus.png": "/party-thyme-plant-nursery/static/media/cactus.af5e383fc2f157be84f3.png",
-    "static/media/lavender.png": "/party-thyme-plant-nursery/static/media/lavender.b55313c1e2d111fd4684.png",
-    "static/media/aloe.png": "/party-thyme-plant-nursery/static/media/aloe.83b7aff62ddac2b9eb69.png",
     "index.html": "/party-thyme-plant-nursery/index.html",
     "main.ee1802f6.css.map": "/party-thyme-plant-nursery/static/css/main.ee1802f6.css.map",
-    "main.368973d4.js.map": "/party-thyme-plant-nursery/static/js/main.368973d4.js.map",
+    "main.896c8278.js.map": "/party-thyme-plant-nursery/static/js/main.896c8278.js.map",
     "453.a418b3d5.chunk.js.map": "/party-thyme-plant-nursery/static/js/453.a418b3d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ee1802f6.css",
-    "static/js/main.368973d4.js"
+    "static/js/main.896c8278.js"
   ]
 }
