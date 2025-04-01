@@ -1,18 +1,13 @@
 import React, { useContext } from 'react';
 import './products.css'
 import { CartContext } from '../contexts/cartcontext.js'
-import aloe from '../images/aloe.png'
-import cacuts from '../images/cactus.png'
-import lavender from '../images/lavender.png'
-import mand from '../images/mand.png'
-import philo from '../images/philo.png'
-import rosemary from '../images/rosemary.png'
+
 
 
 
 
 export const plants = [
-  { id: 1, name: 'Aloe Vera', price: 10, description: 'Soothing and healing plant.', image: '/aloe.png' },
+  { id: 1, name: 'Aloe Vera', price: 10, description: 'Soothing and healing plant.', image: 'https://github.com/Tanner-Eischen/party-thyme-plant-nursery/blob/main/public/aloe.png' },
   { id: 2, name: 'Cactus', price: 15, description: 'Low maintenance desert plant.', image: '/cactus.png' },
   { id: 3, name: 'Lavender', price: 10, description: 'Aromatic and calming.', image: '/lavender.png' },
   { id: 4, name: 'Rosemary', price: 10, description: 'Aromatic and calming.', image: '/rosemary.png' },
